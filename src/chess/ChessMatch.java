@@ -347,6 +347,4 @@ public class ChessMatch {
         placeNewPiece('a', 7, new Pawn(board, Color.BLACK, this));
         placeNewPiece('h', 7, new Pawn(board, Color.BLACK, this));
     }
-
-
 }
